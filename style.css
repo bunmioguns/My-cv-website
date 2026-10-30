@@ -1,0 +1,31 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    font-size: 16px;
+}
+
+li {
+    color: darkslategray;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+}
